@@ -1,0 +1,29 @@
+{
+  "name": "server-pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abe-lst92/server-pagination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abe-lst92/server-pagination/issues"
+  },
+  "homepage": "https://github.com/abe-lst92/server-pagination#readme",
+  "dependencies": {
+    "socket.io": "^4.0.0",
+    "socket.io-client": "^4.0.0",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
